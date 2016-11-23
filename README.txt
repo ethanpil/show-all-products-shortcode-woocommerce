@@ -19,12 +19,12 @@ Download and install the woocommerce-show-all-products-shortcode plugin:
 * Download the plugin from the Wordpress Plugins Repository
 * Get `woocommerce-show-all-products-shortcode.php` from GitHub and upload to the `/wp-content/plugins/` directory
 
-2. Activate the plugin through the \'Plugins\' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 = I dont see any settings or options! =
 
-There aren\'t any!
+There aren't any!
 
 = How to I enable it? =
 
