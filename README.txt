@@ -1,4 +1,4 @@
-=== Woocommerce Show All Products Shortcode ===
+=== Show All Products Shortcode for Woocommerce ===
 Contributors: ethanpil
 Tags: woocommerce,shortcode,products,list,all
 Requires at least: 3.0
