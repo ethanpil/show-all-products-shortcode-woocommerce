@@ -1,7 +1,7 @@
 <?php
 /*
-   Plugin Name: Woocommerce Show All Products Shortcode
-   Plugin URI: http://wordpress.org/extend/plugins/woocommerce-show-all-products-shortcode/
+   Plugin Name: Show All Products Shortcode for WooCommerce
+   Plugin URI: http://wordpress.org/extend/plugins/show-all-products-shortcode-woocommerce/
    Version: 1.0
    Author: Ethan Piliavin
    Description: An easy [all_products] shortcode to list all woocommerce products on one page.
